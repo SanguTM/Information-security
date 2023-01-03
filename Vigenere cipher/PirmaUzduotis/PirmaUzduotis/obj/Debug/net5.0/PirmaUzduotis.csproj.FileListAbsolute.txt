@@ -1,0 +1,32 @@
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.exe
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.deps.json
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.runtimeconfig.json
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.runtimeconfig.dev.json
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.dll
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\ref\PirmaUzduotis.dll
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.pdb
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.csproj.AssemblyReference.cache
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.AssemblyInfoInputs.cache
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.AssemblyInfo.cs
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.csproj.CoreCompileInputs.cache
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.dll
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\ref\PirmaUzduotis.dll
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.pdb
+F:\Dokumentai\Studijos\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.genruntimeconfig.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.csprojAssemblyReference.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.AssemblyInfoInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.AssemblyInfo.cs
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\ref\PirmaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.exe
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.deps.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.runtimeconfig.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.runtimeconfig.dev.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\ref\PirmaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\net5.0\PirmaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\net5.0\PirmaUzduotis.genruntimeconfig.cache

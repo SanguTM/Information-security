@@ -1,0 +1,10 @@
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\bin\Release\AntraUzduotis2.exe.config
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\bin\Release\AntraUzduotis2.exe
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\bin\Release\AntraUzduotis2.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.csprojAssemblyReference.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.Form1.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.Properties.Resources.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.csproj.GenerateResource.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.exe
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\AntraUzduotis2\AntraUzduotis2\obj\Release\AntraUzduotis2.pdb

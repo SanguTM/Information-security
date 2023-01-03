@@ -1,0 +1,120 @@
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.exe
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.deps.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.dev.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.AssemblyReference.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Form1.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.GenerateResource.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfoInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfo.cs
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.genruntimeconfig.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.NewPassword.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.exe
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.deps.json
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.json
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.dev.json
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.AssemblyReference.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Form1.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.NewPassword.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.GenerateResource.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfoInputs.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfo.cs
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.CoreCompileInputs.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.genruntimeconfig.cache
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.exe
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.deps.json
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.json
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.dev.json
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.dll
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.AssemblyReference.cache
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Form1.resources
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.NewPassword.resources
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.GenerateResource.cache
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfoInputs.cache
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfo.cs
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.dll
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+C:\Users\Sangu\Desktop\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.genruntimeconfig.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.AssemblyReference.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.NewPassword.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.GenerateResource.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfoInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfo.cs
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.exe
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.deps.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.dev.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.genruntimeconfig.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.exe
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.deps.json
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.json
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.dev.json
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.AssemblyReference.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.NewPassword.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.GenerateResource.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfoInputs.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfo.cs
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.CoreCompileInputs.cache
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.genruntimeconfig.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Login.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Menu.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.EditPassword.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Login.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Menu.resources
+D:\Dokumentai\Studijos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.EditPassword.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.exe
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.deps.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.runtimeconfig.dev.json
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\bin\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.AssemblyReference.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Login.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.NewPassword.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.Menu.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.EditPassword.resources
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.GenerateResource.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfoInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.AssemblyInfo.cs
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\ref\KetvirtaUzduotis.dll
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.pdb
+F:\Paskaitos\Informacijos saugumas\InformacijosSaugumas\KetvirtaUzduotis_2\KetvirtaUzduotis\obj\Debug\net5.0-windows\KetvirtaUzduotis.genruntimeconfig.cache
